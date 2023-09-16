@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(105, 61, 147, 0.894);
+    color: white;
+}
+.main{
+    margin-top: 30vh;
+} 
+.name h3{
+    background: linear-gradient(to right, #f32170,
+    #ff6b08, #cf23cf, #eedd44);
+-webkit-text-fill-color: transparent;
+-webkit-background-clip: text;
+}
